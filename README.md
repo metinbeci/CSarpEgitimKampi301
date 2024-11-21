@@ -1,4 +1,4 @@
-#🚀 *C# Eğitim Kampı 301 - Katmanlı Mimari ve Sınıf Tasarımı*
+# 🚀 **C# Eğitim Kampı 301 - Katmanlı Mimari ve Sınıf Tasarımı**
 
 Bu repo, "Murat Yücedağ'ın" rehberliğinde gerçekleştirilen C# Eğitim Kampı 301 üzerinde çalıştığım projeleri içermektedir. Bu projeler, C# diline dair temel kavramlardan ileri seviyelere kadar uzanan bilgi ve becerilerimi pekiştirmeme olanak sağladı. Her bir proje, kodlama pratiğimi güçlendirdi ve programlamaya bakış açımı geliştirdi.Projeye dair teknik detayları aşağıda paylaştım.
 
